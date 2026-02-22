@@ -13,13 +13,13 @@ Blockchain is a distributed ledger technology that guarantees data security, tra
   <img src="publication_year.png" width="600"/>
 </p>
 
-## there are some inclusion and exclusion criterias that we consider in our study.
+## There are some inclusion and exclusion criterias that we consider in our study.
 
 <p align="center">
   <img src="criterias.png" width="600"/>
 </p>
 
-## 📸 PRISMA diagram of the general review.
+## PRISMA diagram of the general review.
 
 <p align="center">
   <img src="PRISMA.png" width="600"/>
